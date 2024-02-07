@@ -1,0 +1,1 @@
+La carpeta "BaseDeDatos" se debe copiar en la raiz de Google Drive.
